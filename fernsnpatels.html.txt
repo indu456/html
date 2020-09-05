@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>online Flower Delivery</title>
+	<link rel="stylesheet" type="text/css" href="bouquet.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+</head>
+<body>
+	<nav>
+		<ul>
+
+			<li class="logo">
+				<a>ferns<i>n</i>petals</a>
+			</li>
+			<div class="navigation">
+				<li><a href=""><i class="fa fa-home"></i>Home</a></li>
+				<li><a href=""><i class="fa fa-user"></i>About Us</a></li>
+				<li><a href=""><i class="fa fa-users"></i>Clients</a></li>
+				<li><a href=""><i class="fa fa-phone"></i>Contact</a></li>
+				<li><a href=""><i class="fa fa-clone"></i>Feedback</a></li>
+			</div>
+			<li class="searchbox">
+				<input type="search" name="" placeholder="search">
+				<label class="icon">
+					<span class="fa fa-search"></span>
+				</label>
+			</li>
+
+			</ul>
+			
+	    </div>
+	</nav><br>
+	<div class="items">
+		<ul>
+			<li class="active"><a href="">Cakes</a></li>
+			<li><a href="C:\Users\Administrator\Desktop\html\index.html\flowers.html" target="self">Bouquets</a></li>
+			<li><a href="C:\Users\Administrator\Desktop\html\index.html\bou3.html">Chocolates</a></li>
+			<li><a href="">Chocolates</a></li>
+			<li><a href="">Anniversary</a></li>
+			<li><a href="">Combos</a></li>
+			<li><a href="">More Gifts</a></li>
+		</ul>
+	</div><br>
+	<img src="https://i7.fnp.com/assets/images/custom/new-desk-home/hero-banners/Birthday-19-aug-2020.jpg" width=100% height="450px">
+	<h1 style="color: purple;margin-left:15px">All Cakes</h1>
+	<div class="container">
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/cakes/BirthdayCakes.jpg">
+			<h3>Chocolate Truffle Cream Cake</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/cakes/AnniversaryCakes.jpg">
+			<h3>Fudge Brownie Cake</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/cakes/EgglessCakes.jpg">
+			<h3>Butterscotch Cake</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/oreo-twirling-cupcakes_1.jpg">
+			<h3>Oreo Twirling Cupcake</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/mango-cake_1.jpg">
+			<h3>Mango Cake</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/pink-dress-barbie-cake_1.jpg">
+			<h3>Barbie Cake</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/kit-kat-cake_2.jpg">
+			<h3>Kit Kat Cake</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/black-forest-oreo-cake_2.jpg">
+			<h3>Black Forest Oreo Cake</h3>
+			<button>order</button>
+		</div>
+	</div><br>
+	<h3 style="color: black;margin: 15px">Full of sweetness and love, cakes are undoubtedly the best part of every celebration. Ferns N Petals offers a variety of flavoured cakes for every festival and all major occasions. If you are in a hurry and want fast cake delivery to the destination of your choice, you can trust us. We assure reliable delivery of cakes all over India in two hours.</h3><br>
+	<footer style="background-color:black;color:white; text-align: center; font-size:20px">&copy copy rights &reg 2020 Terms&Conditions | Privacy Policy |follow us on
+		<i class="fa fa-facebook-official fa-2x" style="background-color:white;color:blue;"></i>
+
+        <i class="fa fa-instagram fa-2x" style="background-color:red;color:white; border-radius:10px"></i>
+        <i class="fa fa-twitter-square fa-2x" style="color:blue; background: white;border-radius:4px"></i>
+ 
+    </footer><br>
+
+
+
+
+</body>
+</html>
+..................................page2..............................................
+<!DOCTYPE html>
+<html>
+<head>
+	<title>online Flower Delivery</title>
+	<link rel="stylesheet" type="text/css" href="bouquet.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+</head>
+<body>
+	<nav>
+		<ul>
+
+			<li class="logo">
+				<a>ferns<i>n</i>petals</a>
+			</li>
+			<div class="navigation">
+				<li><a href=""><i class="fa fa-home"></i>Home</a></li>
+				<li><a href=""><i class="fa fa-user"></i>About Us</a></li>
+				<li><a href=""><i class="fa fa-users"></i>Clients</a></li>
+				<li><a href=""><i class="fa fa-phone"></i>Contact</a></li>
+				<li><a href=""><i class="fa fa-clone"></i>Feedback</a></li>
+			</div>
+			<li class="searchbox">
+				<input type="search" name="" placeholder="search">
+				<label class="icon">
+					<span class="fa fa-search"></span>
+				</label>
+			</li>
+
+			</ul>
+			
+	    </div>
+	</nav><br>
+	<div class="items">
+		<ul>
+			<li><a href="">Cakes</a></li>
+			<li class="active">Bouquets</a></li>
+			<li><a href="">Chocolates</a></li>
+			<li><a href="">Anniversary</a></li>
+			<li><a href="">Combos</a></li>
+			<li><a href="">More Gifts</a></li>
+		</ul>
+	</div><br>
+	<img src="https://i3.fnp.com/assets/images/custom/flower-micro/Homepage/Flower-banner-Micro-site-23-aug-2019.jpg" width=100% height="450px">
+	<h1 style="color: purple;margin-left: 15px">All Flowers</h1>
+	<div class="container">
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/flowers/Roses.jpg">
+			<h3>Roses</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/flowers/Carnations.jpg">
+			<h3>Carnations</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/flowers/Exotic.jpg">
+			<h3>Exotic Flowers</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/flowers/Mixed.jpg">
+			<h3>Mixed Flowers</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/chocolate-rose-bouquet_2.jpg">
+			<h3>Chocolate Rose Bouquet</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/flower-vase-for-birthday_1.jpg">
+			<h3>Flower Vase Birthday</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/special-surprise-arrangement_1.jpg">
+			<h3>Special Surprise Arrangement</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/ravishing-mixed-flowers-bouquet_1.jpg">
+			<h3>Ravishing Mixed Flowers Bouquet</h3>
+			<button>order</button>
+		</div>
+		<h3 style="color: black;text-align: center;">Flowers have always been the best gifts for all major occasions because they speak the language of love, care, respect, admiration, inspiration, appreciation, and gratitude. The colorful petals of flowers talk in grace and elegance and simply mesmerizes the minds and hearts of people. So, express your heartfelt love for the special people in your life with our amazing collection of roses, lilies, carnations, orchids, etc. available in box/basket/vase arrangements and bouquets!</h3><br>
+	</div>
+	<footer style="background-color:black;color:white; text-align: center; font-size:20px">&copy copy rights &reg 2020 Terms&Conditions | Privacy Policy |follow us on
+		<i class="fa fa-facebook-official fa-2x" style="background-color:white;color:blue;"></i>
+
+        <i class="fa fa-instagram fa-2x" style="background-color:red;color:white; border-radius:10px"></i>
+        <i class="fa fa-twitter-square fa-2x" style="color:blue; background: white;border-radius:4px"></i>
+ 
+    </footer><br>
+
+
+
+
+</body>
+</html>
+....................................page2.....................................................
+<!DOCTYPE html>
+<html>
+<head>
+	<title>online Chocolate Delivery</title>
+	<link rel="stylesheet" type="text/css" href="bouquet.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+</head>
+<body>
+	<nav>
+		<ul>
+
+			<li class="logo">
+				<a>ferns<i>n</i>petals</a>
+			</li>
+			<div class="navigation">
+				<li><a href=""><i class="fa fa-home"></i>Home</a></li>
+				<li><a href=""><i class="fa fa-user"></i>About Us</a></li>
+				<li><a href=""><i class="fa fa-users"></i>Clients</a></li>
+				<li><a href=""><i class="fa fa-phone"></i>Contact</a></li>
+				<li><a href=""><i class="fa fa-clone"></i>Feedback</a></li>
+			</div>
+			<li class="searchbox">
+				<input type="search" name="" placeholder="search">
+				<label class="icon">
+					<span class="fa fa-search"></span>
+				</label>
+			</li>
+
+			</ul>
+			
+	    </div>
+	</nav><br>
+	<div class="items">
+		<ul>
+			<li><a href="">Cakes</a></li>
+			<li><a href="">Bouquets</a></li>
+			<li class="active"><a href="">Chocolates</a></li>
+			<li><a href="">Anniversary</a></li>
+			<li><a href="">Combos</a></li>
+			<li><a href="">More Gifts</a></li>
+		</ul>
+	</div><br>
+	<h1 style="color: purple;margin-left: 15px">Order Chocolates Online</h1>
+	<div class="container">
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/chocolates/Bouquets.jpg">
+			<h3>Chocolates Bouquet</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/sweet-kitkat-bouquet_1.jpg">
+			<h3>Sweet Kitkat Bouquet</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/assets/images/custom/category/banners/chocolates/Ferrero.jpg">
+			<h3>Ferrero Rocher chocolates</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/teddy-and-chocolate-basket_1.jpg">
+			<h3>Chocolate Combos</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/assorted-chocolate-coated-nuts-beans_1.jpg">
+			<h3>Chocolate Coated Nuts</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/bournville-cranberry-anniversary-greetings_2.jpg">
+			<h3>Bournville Cranberry Anniversary Greetings</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/twist-of-flavors_1.jpg">
+			<h3>Twist Of Flavors</h3>
+			<button>order</button>
+		</div>
+		<div>
+			<img src="https://i7.fnp.com/images/pr/l/v20200206131630/chocolate-heart-bouquet_1.jpg">
+			<h3>Chocolate Heart Bouquet</h3>
+			<button>order</button>
+		</div>
+		<h3 style="color: black;text-align: center;">Add some sweetness to the life and celebrations of your loved ones with our exotic flavored chocolates. At Ferns N Petals, you get to choose from the wide range of options in chocolates that are available in baskets, bouquets, and designer boxes. Order online delightful chocolate gift boxes to melt the heart of your dear ones and make them feel loved.</h3><br>
+	</div>
+	<footer style="background-color:black;color:white; text-align: center; font-size:20px">&copy copy rights &reg 2020 Terms&Conditions | Privacy Policy |follow us on
+		<i class="fa fa-facebook-official fa-2x" style="background-color:white;color:blue;"></i>
+
+        <i class="fa fa-instagram fa-2x" style="background-color:red;color:white; border-radius:10px"></i>
+        <i class="fa fa-twitter-square fa-2x" style="color:blue; background: white;border-radius:4px"></i>
+ 
+    </footer><br>
+
+
+
+
+</body>
+</html>
+-------------------------------------------CSS-----------------------------------------------------------------
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif,charcoal;
+	color:#f2f2f2;
+}
+nav{
+	background:slateblue;
+	padding: 10px 40px 10px 70px;
+	border:1px solid #000;
+	border-left: none;
+	border-right:none;
+}
+nav ul{
+	display: flex;
+	list-style: none;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+nav ul li.logo{
+	flex:1;
+	font-size: 30px;
+	font-weight: 700;
+
+}
+nav ul div.navigation{
+	padding:0.25px;
+	display: inline-flex;
+}
+nav ul div.navigation a{
+	text-decoration: none;
+	font-size:18px;
+	padding:0 12px;
+}
+nav ul .searchbox{
+	height: 40px;
+	width:240px;
+	display: flex;
+	background:#f2f2f2;
+	border-radius: 5px;
+}
+nav ul .searchbox input{
+	height: 100%;
+	width: 200px;
+	border: 1px solid #cccccc;
+	outline: none;
+	padding: 0 10px;
+	color:#000;
+	font-size: 16px;
+	border-radius: 5px 0 0 5px;
+
+}
+nav ul .searchbox .icon{
+	height: 100%;
+	width:40px;
+	line-height: 40px;
+	text-align: center;
+	border: 1px solid #cccccc;
+	border-radius: 0 5px 5px 0;
+
+}
+nav ul .searchbox .icon span{
+	color:#222222;
+	font-size: 18px;
+}
+.items{
+	background: dodgerblue;
+}
+.items ul{
+	display: inline-flex;
+	list-style: none;
+}
+.items ul li{
+	width:120px;
+	margin:5px;
+	padding:10px;
+	font-size:19px;
+
+}
+.items ul li a{
+	text-decoration: none;
+}
+.active,.items ul li:hover{
+	background:tomato;
+	text-align: center;
+	border-radius: 30px;
+}
+body{
+	background-image: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	color:black;
+}
+.container{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+	
+}
+.container div{
+	text-align: center;
+	margin:1%;
+	width:23%;
+	padding:1%;
+	background-color: black;
+	justify-content: space-around;
+}
+.container div img{
+	width:100%;
+	height:180px;
+	margin: 1px;
+}
+.container div button{
+	background-color:slateblue;
+	color:white;
+	border:none;
+	border-radius: 5px;
+	width:80px;
+	height:30px;
+	font-size: 18px;
+	margin: 10px;
+}
+.container div img:hover{
+	transition: all 1s ease;
+	opacity: 1;
+	width:90%;
+	height:200px;
+}
+h3{
+	color:white;
+
+}
+@media only screen and (min-width: 320px) and (max-width: 767px){
+	.container{
+		flex-direction: column;
+
+	}
+	.container div{
+		width:95%;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+	.container div{
+		width:40%;
+	}
+	.container{
+		flex-direction: row;
+		justify-content: space-around;
+	}
+
+}
